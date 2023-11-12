@@ -1,0 +1,9 @@
+{
+    "DATA": [
+        { "title": "visita oculistica", "date": "11/11/2023" },
+        { "title": "TAC", "date": "11/11/2023" },
+        { "title": "RX", "date": "11/11/2023" },
+        { "title": "esami del sangue", "date": "11/11/2023" },
+        { "title": "ecg", "date": "11/11/2023" }
+    ]
+}
